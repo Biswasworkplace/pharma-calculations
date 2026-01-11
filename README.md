@@ -10,7 +10,9 @@ A Python toolkit for common pharmaceutical and API R&D calculations.
 - Solvent recovery calculation
 
 ## 🚀 How to Run
-▶️ Install the STREAMLIT APP
+▶️ Install the STREAMLIT APP using CMD/ ANACONDA
+
+
 ✅ Step 1: Open Command Prompt
 Select the root folder
 ex-

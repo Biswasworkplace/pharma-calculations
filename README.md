@@ -20,9 +20,11 @@ Select the root folder
 ex-
 cd C:\Users\Calculation
 
-✅ Step 2: Install Streamlit
+✅ Step 2: Install Streamlit Via CMD
+
 pip install streamlit
 
-✅ Step 3: Run the App
+✅ Step 3: Run the App in same CMD
+
 streamlit run app.py
 
